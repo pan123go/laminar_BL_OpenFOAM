@@ -7,3 +7,5 @@ we have zeroGradinet on the top and bottom of the entrence region.
 we have constant velocity on the left side of entrence region.
 we have zeroGradient on top of the flat plate region and the right hand side.
 we have noslip consition on bottom of flat plate region.
+
+for the future we want to include turbulence modelling... let's see how we can do it in another repository.
